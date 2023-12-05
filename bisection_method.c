@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<math.h>
 
 void bisect(float *mid_pt, float int_st, float int_end, int *iter_cnt);
 double get_fun(double res);
